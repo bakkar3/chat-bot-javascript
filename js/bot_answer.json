@@ -1,0 +1,26 @@
+[
+  {
+    "my_msg": "hallo",
+    "bot_answer": "Good Morning my friend"
+  },
+  {
+    "my_msg": "how old are you",
+    "bot_answer": "my old is 22 years"
+  },
+  {
+    "my_msg": "halloo",
+    "bot_answer": "Good Morning my friend"
+  },
+  {
+    "my_msg": "how old are youu",
+    "bot_answer": "my old is 22 years"
+  },
+  {
+    "my_msg": "hallooo",
+    "bot_answer": "Good Morning my friend"
+  },
+  {
+    "my_msg": "how old are youuu",
+    "bot_answer": "my old is 22 years"
+  }
+]
